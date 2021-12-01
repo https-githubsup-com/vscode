@@ -47,7 +47,7 @@
     "eslint": "eslint -c .eslintrc.json --rulesdir ./build/lib/eslint --ext .ts --ext .js ./src/vs ./extensions"
   },
   "dependencies": {
-    "applicationinsights": "1.0.8",
+    "applicationinsights": "1.8.10",
     "chokidar": "3.4.2",
     "graceful-fs": "4.2.3",
     "http-proxy-agent": "^2.1.0",
